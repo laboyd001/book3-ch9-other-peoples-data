@@ -1,0 +1,15 @@
+#foodList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+
+.foodDiv {
+  border: 1px solid red;
+  margin: 3px;
+}
+
+h1 {
+  color: blue;
+}
